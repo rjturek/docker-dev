@@ -1,0 +1,1 @@
+{"virtualbox":{"/shared_box_data":{"guestpath":"/shared_box_data","hostpath":"C:/boxes/docker-dev/shared_data","disabled":false,"__vagrantfile":true},"/develop":{"guestpath":"/develop","hostpath":"C:/develop","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/boxes/docker-dev","disabled":false,"__vagrantfile":true}}}
